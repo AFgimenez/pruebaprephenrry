@@ -1,2 +1,2 @@
 # pruebaprephenrry
-este es un repositorio del modulo 2 del prep course de henrry
+este es una pruea de como crear y clonar un repositorio desde github a mi pc 
